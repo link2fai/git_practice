@@ -1,1 +1,1 @@
-Hello Git and GitHub
+That's a step by step process of git and GitHub.
